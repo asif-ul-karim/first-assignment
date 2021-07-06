@@ -8,7 +8,7 @@ h1{
 h1 span{
     color: orange;
 }
-.font-padding{
+#font-padding{
     padding-top: 5%;
 }
 .imagine-font{
@@ -48,11 +48,11 @@ width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.center-text{
+.recipie-text-item{
     text-align: center;
 }
 .recipie-width-item{
-    box-shadow: 10px 10px 15px gray;
+    box-shadow: 8px 8px 24px gray;
     width: 30%;
     margin-left: 3%;
     margin-right: 3%;
@@ -66,7 +66,7 @@ width: 100%;
 }
 .social-media-area{
     display: flex;
-    box-shadow: 10px 10px 15px gray;
+    box-shadow: 6px 6px 18px gray;
     width: 86%;
     margin-left: 3%;
     margin-right: 3%;
